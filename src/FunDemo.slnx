@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="FunDemo.ApiService/FunDemo.ApiService.csproj" />
+  <Project Path="FunDemo.AppHost/FunDemo.AppHost.csproj" />
+  <Project Path="FunDemo.DbUp/FunDemo.DbUp.csproj" Id="19158dd3-b588-412f-9c40-9e4c78e79752" />
+  <Project Path="FunDemo.Domain/FunDemo.Domain.csproj" Id="0665608b-ce95-4fdf-a370-ebf87787be05" />
+  <Project Path="FunDemo.Infrastructure/FunDemo.Infrastructure.csproj" Id="76d4d9d3-98d2-414c-aaf0-7cefc9c6d95c" />
+  <Project Path="FunDemo.ServiceDefaults/FunDemo.ServiceDefaults.csproj" />
+  <Project Path="FunDemo.Tests/FunDemo.Tests.csproj" />
+  <Project Path="IdentityServer/IdentityServer.csproj" />
+</Solution>
